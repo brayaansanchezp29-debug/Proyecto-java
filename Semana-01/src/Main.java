@@ -1,5 +1,3 @@
-package co.edu.sena.restaurante;
-
 /**
  * Programa principal - Restaurante Sabores del Valle
  * @author Brayan Alejandro Sanchez Pedroza

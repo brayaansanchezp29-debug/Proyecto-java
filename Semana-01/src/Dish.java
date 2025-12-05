@@ -1,4 +1,3 @@
-package co.edu.sena.restaurante;
 
 /**
  * Clase Plato del Restaurante Sabores del Valle
