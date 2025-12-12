@@ -1,7 +1,6 @@
 /**
  * Programa Principal - Semana 02
  * Demuestra uso de clases, relaciones y ArrayList
- * Brayan Alejandro Sanchez Pedroza
  */
 public class Main2 {
     public static void main(String[] args) {

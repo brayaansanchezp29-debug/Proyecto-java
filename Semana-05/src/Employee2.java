@@ -1,8 +1,6 @@
 /**
  * Clase Padre: Employee2
  * Versión mejorada con sobrecarga de métodos
- * @author Brayan Alejandro Sanchez Pedroza
- * @version 5.0 - Polimorfismo
  */
 public class Employee2 {
     // ====== ATRIBUTOS PROTECTED ======

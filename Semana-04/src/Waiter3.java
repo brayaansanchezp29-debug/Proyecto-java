@@ -1,8 +1,6 @@
 /**
  * Subclase: Waiter3 (Mesero)
  * Hereda de Employee y representa a un mesero del restaurante
- * @author Brayan Alejandro Sanchez Pedroza
- * @version 4.0 - Herencia
  */
 public class Waiter3 extends Employee {
     // ====== ATRIBUTOS PROPIOS ======

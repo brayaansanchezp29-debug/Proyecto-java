@@ -1,8 +1,6 @@
 /**
  * Clase Padre: Empleado
  * Representa a cualquier empleado del restaurante Sabores del Valle
- * @author Brayan Alejandro Sanchez Pedroza
- * @version 4.0 - Herencia
  */
 public class Employee {
     // ====== ATRIBUTOS PROTECTED (Compartidos con subclases) ======

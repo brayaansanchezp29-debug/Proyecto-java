@@ -9,6 +9,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Semana-03/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Semana-04/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Semana-05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semana-06/abstractas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semana-06/implementaciones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semana-06/interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semana-06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semana-07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semana-08/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

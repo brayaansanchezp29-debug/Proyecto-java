@@ -1,6 +1,5 @@
 /**
  * Clase Pedido - Relación entre Mesero y Plato
- * @author Brayan Alejandro Sanchez Pedroza
  */
 public class Order {
     private static int orderCounter = 1; // Contador estático

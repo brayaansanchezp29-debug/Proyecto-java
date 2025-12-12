@@ -1,8 +1,6 @@
 /**
  * Subclase: Chef (Cocinero)
  * Hereda de Employee y representa a un cocinero del restaurante
- * @author Brayan Alejandro Sanchez Pedroza
- * @version 4.0 - Herencia
  */
 public class Chef extends Employee {
     // ====== ATRIBUTOS PROPIOS ======

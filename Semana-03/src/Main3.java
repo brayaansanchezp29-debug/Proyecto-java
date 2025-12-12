@@ -1,7 +1,6 @@
 /**
  * Programa Principal - Semana 03
  * Demuestra encapsulación, sobrecarga de constructores y validaciones
- * @author Brayan Alejandro Sanchez Pedroza
  */
 public class Main3 {
     public static void main(String[] args) {

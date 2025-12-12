@@ -1,7 +1,6 @@
 
 /**
  * Clase Mesero - Empleado que atiende a los clientes
- * @author Brayan Alejandro Sanchez Pedroza
  */
 public class Waiter {
     private String name;

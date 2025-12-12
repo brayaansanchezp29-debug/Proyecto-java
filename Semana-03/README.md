@@ -48,7 +48,7 @@ Todas las clases de semana 02 fueron refactorizadas con:
 - Strings no nulos ni vacíos
 - Rangos numéricos válidos
 - Formatos específicos (ID, categorías)
-- Excepciones descriptivas
+- excepciones descriptivas
 
 ---
 

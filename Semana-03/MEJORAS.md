@@ -228,7 +228,7 @@
 - Implementación interna puede cambiar sin romper código cliente
 
 ### 6. **Prevención de Errores**
-- Excepciones informativas cuando datos son inválidos
+- excepciones informativas cuando datos son inválidos
 - Validaciones tempranas (fail-fast)
 - Mensajes de error claros y descriptivos
 

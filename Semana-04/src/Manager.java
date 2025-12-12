@@ -1,8 +1,6 @@
 /**
  * Subclase: Manager (Gerente)
  * Hereda de Employee y representa al gerente del restaurante
- * @author Brayan Alejandro Sanchez Pedroza
- * @version 4.0 - Herencia
  */
 public class Manager extends Employee {
     // ====== ATRIBUTOS PROPIOS ======

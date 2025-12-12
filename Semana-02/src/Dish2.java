@@ -1,7 +1,6 @@
 
 /**
  * Clase Plato - Representa un plato del menú
- * @author Brayan Alejandro Sanchez Pedroza
  */
 public class Dish2 {
     private String name;

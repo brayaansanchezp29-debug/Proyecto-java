@@ -1,7 +1,5 @@
 /**
  * Clase Pedido - Semana 03 con Encapsulación Completa
- * @author Brayan Alejandro Sanchez Pedroza
- * @version 3.0 - Encapsulación y Constructores Sobrecargados
  */
 public class Order2 {
     // ====== ATRIBUTO ESTÁTICO ======

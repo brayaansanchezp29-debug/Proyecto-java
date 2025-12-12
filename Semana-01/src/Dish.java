@@ -1,8 +1,6 @@
 
 /**
  * Clase Plato del Restaurante Sabores del Valle
- * @author Brayan Alejandro Sanchez Pedroza
- * @ficha 3228973B
  */
 public class Dish {
     private String name;

@@ -2,7 +2,6 @@ import java.util.ArrayList;
 
 /**
  * Clase Gestora - Maneja el restaurante con ArrayList
- * @author Brayan Alejandro Sanchez Pedroza
  */
 public class Restaurant {
     private String name;

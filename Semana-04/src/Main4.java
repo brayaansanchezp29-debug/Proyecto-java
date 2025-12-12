@@ -1,7 +1,6 @@
 /**
  * Programa Principal - Semana 04
  * Demuestra herencia, polimorfismo y sobrescritura de métodos
- * @author Brayan Alejandro Sanchez Pedroza
  */
 public class Main4 {
     public static void main(String[] args) {
